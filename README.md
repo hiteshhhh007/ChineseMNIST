@@ -4,6 +4,7 @@ This notebook has been created in Kaggle. It consists of CNN methods for Chinese
 Here are few Images of the Test Results:
 This is the Image of the CNN Layers/Architeture that I have used for this dataset.
 ![LayersDisc](https://github.com/hiteshhhh007/ChineseMNIST/assets/115102401/9ebc34f8-21a5-437d-bbf2-31f6434c4ab6)
+
 This shows how the loss gets decreased and accuracy improves with each cycle/epochs, I have ran this on 20 Epochs inorder to get the desired accuracy.
 ![Epochs](https://github.com/hiteshhhh007/ChineseMNIST/assets/115102401/a99ae348-16e1-422a-8dc2-9c8710006702)
 Epochs/Cycles represented graphically to get a clear idea.
