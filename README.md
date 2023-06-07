@@ -7,7 +7,9 @@ This is the Image of the CNN Layers/Architeture that I have used for this datase
 
 This shows how the loss gets decreased and accuracy improves with each cycle/epochs, I have ran this on 20 Epochs inorder to get the desired accuracy.
 ![Epochs](https://github.com/hiteshhhh007/ChineseMNIST/assets/115102401/a99ae348-16e1-422a-8dc2-9c8710006702)
+
 Epochs/Cycles represented graphically to get a clear idea.
 ![Graph](https://github.com/hiteshhhh007/ChineseMNIST/assets/115102401/e645459a-a7d6-4305-bac5-ce4c495a4a67)
+
 Final Result
 ![Test_Results](https://github.com/hiteshhhh007/ChineseMNIST/assets/115102401/e0f6348f-147b-4d70-95de-7412db545e2e)
